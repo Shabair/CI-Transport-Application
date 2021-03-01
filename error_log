@@ -1,0 +1,10 @@
+[20-Aug-2016 12:35:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/codeglamour/public_html/hrm/application/controllers/Payment.php on line 30
+[20-Aug-2016 13:30:12 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/codeglamour/public_html/hrm/application/models/Payment_model.php on line 83
+[20-Aug-2016 13:45:50 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/codeglamour/public_html/hrm/application/models/Payment_model.php on line 85
+[20-Aug-2016 13:58:52 Asia/Karachi] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/codeglamour/public_html/hrm/application/models/Payment_model.php on line 84
+[20-Aug-2016 13:59:16 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::whare() in /home/codeglamour/public_html/hrm/application/models/Payment_model.php on line 84
+[28-Aug-2016 21:48:26 Asia/Karachi] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/codeglamour/public_html/hrgulf.com/hradmin/application/controllers/site/Jobs.php on line 53
+[28-Aug-2016 21:48:35 Asia/Karachi] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/codeglamour/public_html/hrgulf.com/hradmin/application/controllers/site/Jobs.php on line 53
+[28-Aug-2016 21:48:52 Asia/Karachi] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/codeglamour/public_html/hrgulf.com/hradmin/application/controllers/site/Jobs.php on line 53
+[07-Feb-2017 11:33:33 UTC] PHP Fatal error:  Call to a member function get_trucks() on null in /home/advancetdms/public_html/application/views/admin/maintenance/main.php on line 2
+[22-Feb-2017 15:11:30 UTC] PHP Fatal error:  Call to a member function deletecompany() on null in /home/advancetdms/public_html/application/controllers/Truck.php on line 224
